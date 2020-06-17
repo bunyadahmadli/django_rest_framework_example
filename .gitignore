@@ -1,2 +1,6 @@
 .venv/
 venv/
+app1/__pycache__
+app1/migrations
+.vscode
+db.sqlite3
